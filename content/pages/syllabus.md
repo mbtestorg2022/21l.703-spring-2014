@@ -17,13 +17,66 @@ Taking as its starting point the works of one of Britain's most respected, proli
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Reading, class participation and contribution, including watching films, providing feedback, and other events | 30 |
-| Reports and class leadership | 20 |
-| Focused single-play analysis (5 pages / 1250 words) | 10 |
-| Self-assessments, scene and other writing | 15 |
-| Major analytical essay / project (15 pages) | 25 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reading, class participation and contribution, including watching films, providing feedback, and other events
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reports and class leadership
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Focused single-play analysis (5 pages / 1250 words)
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Self-assessments, scene and other writing
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Major analytical essay / project (15 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 I reserve the right to alter the weighting somewhat in exceptional circumstances; usually this works to your advantage. If written work is incomplete or attendance is infrequent, you will not pass the course. I will consider each of the requirements in determining your grade. If you cannot be in class or meet a deadline because of an emergency, please speak with me (in advance, if possible); otherwise, absences and late papers will adversely affect your grade. I will expect you to write a one-page response essay on the assigned material on any day you miss class, after week one.
 

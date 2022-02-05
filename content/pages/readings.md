@@ -46,34 +46,385 @@ Additional plays, films and readings will serve as the basis for student reports
 *   Dunlap, David W. "[A Memorial Inscription's Grim Origins](http://www.nytimes.com/2014/04/03/nyregion/an-inscription-taken-out-of-poetic-context-and-placed-on-a-9-11-memorial.html?_r=1)," _New York Times_, April 2, 2014.
 *   & more!
 
-| LEC # | TOPICS | READINGS & VIEWINGS (TO BE COMPLETED BEFORE CLASS) |
-| --- | --- | --- |
-| 1 | Introductions; British comedy and you | &nbsp; |
-| {{< td-colspan 3 >}}**Travesties and Traditions**{{< /td-colspan >}} |||
-| 2 | _Rosencrantz & Guildenstern Are Dead_ (1966 / 7). |  {{< br >}}{{< br >}} Read _Rosencrantz & Guildenstern Are Dead_ (1966 / 7). {{< br >}}{{< br >}} Watch a film version of _Hamlet_ (if you are unfamiliar with this). {{< br >}}{{< br >}}  |
-| 3 | _Rosencrantz & Guildenstern Are Dead_, across media. |  {{< br >}}{{< br >}} Watch the film _[Rosencrantz and Guildenstern Are Dead](http://www.imdb.com/title/tt0100519/)._  {{< br >}}{{< br >}} Attend [MIT DramaShop's](http://theaterarts.mit.edu/) production of _Arcadia_. {{< br >}}{{< br >}}  |
-| 4 | _The Real Inspector Hound_ (1969 / 70). |  {{< br >}}{{< br >}} Read _The Real Inspector Hound_. {{< br >}}{{< br >}} If you would like to watch a relevant film, check out [_Night Must Fall_](http://www.imdb.com/title/tt0029310/). (1937, based on a play by Emlyn Williams)—it isn't Agatha Christie's _The Mousetrap_, but still has (perhaps more grisly) applicability! {{< br >}}{{< br >}}  |
-| 5 | _Travesties_ (1974 / 75); discussion of _Aracdia_ in performance; exchange of essay on _Travesties_ with a partner. |  {{< br >}}{{< br >}} Watch the film _[_The Importance of Being Earnest_](http://www.imdb.com/title/tt0044744/)_ (dir. Anthony Asquith, 1952) of the play (first performed in 1895) by Oscar Wilde, before reading _Travesties_. {{< br >}}{{< br >}} Read _Travesties._ {{< br >}}{{< br >}}  |
-| 6 | Presentations of one another's ideas about _Travesties_, with commentary. | Watch the film __[Top Girls](http://www.imdb.com/title/tt1059236/?ref_=nm_flmg_dr_1),__ televised version of the play by Caryl Churchill (dir. Max Stafford-Clark, 1991), and/or read the play. |
-| 7 | _Travesties_ and _Top Girls_ (play first performed in 1982). | &nbsp; |
-| {{< td-colspan 3 >}}**Serious Comedy**{{< /td-colspan >}} |||
-| 8 | _Scenes from an Execution_ (1985 radio version; 1990 staged). | Read _Scenes from an Execution_. |
-| 9 | _Scenes from an Execution_ and _Serious Money_ (1987). | Read _Serious Money_. |
-| 10 | _Serious Money_; exchange of essay on _Serious Money_ with a partner. | &nbsp; |
-| 11 | _Hapgood_ (1988); exchange of reader's report on partner's essay on _Serious Money_. | Read _Hapgood_. |
-| 12 | _Hapgood_ and _Twilight: Los Angeles_, _1992_ (1994). | Begin reading _Twilight: Los Angeles, 1992_. |
-| 13 | _Twilight_: _Los Angeles, 1992_. | Finish reading _Twilight: Los Angeles, 1992_. |
-| {{< td-colspan 3 >}}**Imagining Beyond**{{< /td-colspan >}} |||
-| 14 | _Arcadia_ (1993). | Read _Arcadia_. |
-| 15 | _The Invention of Love_ (1997). | Read _The Invention of Love_. |
-| 16 | Class discussion | &nbsp; |
-| 17 | Class discussion | Watch the film [_Shakespeare in Love_](http://www.imdb.com/title/tt0138097/), screenplay by Marc Norman and Tom Stoppard (1997, dir. John Madden). |
-| 18 | Labors of love, where we've arrived. |  {{< br >}}{{< br >}} Read _Poor Murderer_. {{< br >}}{{< br >}} Optional: Watch the film _[The History Boys](http://www.imdb.com/title/tt0464049/?ref_=fn_al_tt_1)_ (2006, dir. Nicholas Hytner, from the Alan Bennett 2004 play). |
-| 19 | From Kohout to Cahoot, from Wittgenstein to Dogg. |  {{< br >}}{{< br >}} Read _Dogg's Hamlet_ {{< br >}}{{< br >}} Read _Cahoot's Macbeth_. {{< br >}}{{< br >}}  |
-| 20 | Class discussion | &nbsp; |
-| 21 | _Rock 'n' Roll_ (2006); voluntary sharing of students' Stoppardian scenes. | Read _Rock 'n' Roll_. |
-| 22 | _Rock 'n' Roll_. | &nbsp; |
-| 23 | Exchange of reader's report on partner's major essay / project. | Read _A Number_. |
-| 24 | _A Number_ (2002). | &nbsp; |
-| 25 | Student presentations on major project | &nbsp; |
-| 26 | Student presentations on major project (cont.) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS & VIEWINGS (TO BE COMPLETED BEFORE CLASS)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductions; British comedy and you
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Travesties and Traditions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_Rosencrantz & Guildenstern Are Dead_ (1966 / 7).
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Read _Rosencrantz & Guildenstern Are Dead_ (1966 / 7).
+
+Watch a film version of _Hamlet_ (if you are unfamiliar with this).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Rosencrantz & Guildenstern Are Dead_, across media.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Watch the film _[Rosencrantz and Guildenstern Are Dead](http://www.imdb.com/title/tt0100519/)._ 
+
+Attend [MIT DramaShop's](http://theaterarts.mit.edu/) production of _Arcadia_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_The Real Inspector Hound_ (1969 / 70).
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Read _The Real Inspector Hound_.
+
+If you would like to watch a relevant film, check out [_Night Must Fall_](http://www.imdb.com/title/tt0029310/). (1937, based on a play by Emlyn Williams)—it isn't Agatha Christie's _The Mousetrap_, but still has (perhaps more grisly) applicability!
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Travesties_ (1974 / 75); discussion of _Aracdia_ in performance; exchange of essay on _Travesties_ with a partner.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Watch the film _[_The Importance of Being Earnest_](http://www.imdb.com/title/tt0044744/)_ (dir. Anthony Asquith, 1952) of the play (first performed in 1895) by Oscar Wilde, before reading _Travesties_.
+
+Read _Travesties._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations of one another's ideas about _Travesties_, with commentary.
+{{< tdclose >}}
+{{< tdopen >}}
+Watch the film __[Top Girls](http://www.imdb.com/title/tt1059236/?ref_=nm_flmg_dr_1),__ televised version of the play by Caryl Churchill (dir. Max Stafford-Clark, 1991), and/or read the play.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Travesties_ and _Top Girls_ (play first performed in 1982).
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Serious Comedy**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Scenes from an Execution_ (1985 radio version; 1990 staged).
+{{< tdclose >}}
+{{< tdopen >}}
+Read _Scenes from an Execution_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_Scenes from an Execution_ and _Serious Money_ (1987).
+{{< tdclose >}}
+{{< tdopen >}}
+Read _Serious Money_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_Serious Money_; exchange of essay on _Serious Money_ with a partner.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_Hapgood_ (1988); exchange of reader's report on partner's essay on _Serious Money_.
+{{< tdclose >}}
+{{< tdopen >}}
+Read _Hapgood_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_Hapgood_ and _Twilight: Los Angeles_, _1992_ (1994).
+{{< tdclose >}}
+{{< tdopen >}}
+Begin reading _Twilight: Los Angeles, 1992_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_Twilight_: _Los Angeles, 1992_.
+{{< tdclose >}}
+{{< tdopen >}}
+Finish reading _Twilight: Los Angeles, 1992_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Imagining Beyond**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+_Arcadia_ (1993).
+{{< tdclose >}}
+{{< tdopen >}}
+Read _Arcadia_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_The Invention of Love_ (1997).
+{{< tdclose >}}
+{{< tdopen >}}
+Read _The Invention of Love_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Class discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Class discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Watch the film [_Shakespeare in Love_](http://www.imdb.com/title/tt0138097/), screenplay by Marc Norman and Tom Stoppard (1997, dir. John Madden).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Labors of love, where we've arrived.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Read _Poor Murderer_.
+
+Optional: Watch the film _[The History Boys](http://www.imdb.com/title/tt0464049/?ref_=fn_al_tt_1)_ (2006, dir. Nicholas Hytner, from the Alan Bennett 2004 play).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+From Kohout to Cahoot, from Wittgenstein to Dogg.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Read _Dogg's Hamlet_
+
+Read _Cahoot's Macbeth_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Class discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+_Rock 'n' Roll_ (2006); voluntary sharing of students' Stoppardian scenes.
+{{< tdclose >}}
+{{< tdopen >}}
+Read _Rock 'n' Roll_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+_Rock 'n' Roll_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Exchange of reader's report on partner's major essay / project.
+{{< tdclose >}}
+{{< tdopen >}}
+Read _A Number_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+_A Number_ (2002).
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations on major project
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations on major project (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
