@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: b23a3ea3-c465-c18d-8f81-e31794c57592
 resourcetype: Image
 title: 21L-703_stat-students.png
 uid: 905936c7-0197-1f9c-3b72-55b1605b2d60

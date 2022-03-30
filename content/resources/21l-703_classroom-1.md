@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: b23a3ea3-c465-c18d-8f81-e31794c57592
 resourcetype: Image
 title: 21L-703_classroom-1.jpg
 uid: 5f885900-1967-2f83-f8b0-a69e62ddc49d
